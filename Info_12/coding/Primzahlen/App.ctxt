@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=n
+comment1.target=App(int)
+comment2.params=
+comment2.target=void\ array()
+comment3.params=
+comment3.target=void\ maxValue()
+comment4.params=n
+comment4.target=void\ sort(int)
+numComments=5
